@@ -1,0 +1,15 @@
+
+<lifePomodor>25</lifePomodor>
+
+<lifeSpanRest>5</lifeSpanRest>
+
+<lifeSpanLongRest>15</lifeSpanLongRest>
+
+<countPomodorForLongRest>4</countPomodorForLongRest>
+
+<autoStartRest>True</autoStartRest>
+
+<autoStartPomodor>False</autoStartPomodor>
+
+
+

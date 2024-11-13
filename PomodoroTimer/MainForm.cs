@@ -191,8 +191,7 @@ namespace PomodoroTimer
         {            
 
             //Если время вышло, то ..
-            if (time == oneSecond)
-            {
+            if (time == TimeSpan.FromSeconds(0)) {
                 taskTimer.Stop();
 
                 startPausePomodor.Text = "Запуск";
